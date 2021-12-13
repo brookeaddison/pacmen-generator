@@ -6,7 +6,9 @@ array methods, and manipulating the DOM.
 #How to run:
 To run this project on your machine the first thing you need
 is to clone all the files in this repository to your machine.
-Drag and drop the index.html file onto your browser window.
+Drag and drop the index.html file onto your browser window. 
+Click "Start Game." Click "Add PacMan" as many times as you'd like.
+To restart, refresh your browser. 
 
 #Roadmap to future Improvements:
 In the future I plan to add an update in which each pacman 
