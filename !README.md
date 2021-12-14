@@ -1,7 +1,7 @@
 #Pacmen Generator:
 The PacMen project was assigned and developed to further teach 
 and practice the fundamentals of manipulating styles, using 
-array methods, and manipulating the DOM. 
+array methods, and manipulating the DOM. By clicking the "Start Game" button and then the "Add PacMan," users are able to generate multiple pacmen that bounce around the screen, changing direction once hitting the sides. 
 
 #How to run:
 To run this project on your machine the first thing you need
